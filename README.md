@@ -1,5 +1,7 @@
 # Mongoid::Ip
 
+[![Build Status](https://travis-ci.org/rs-pro/mongoid-ip.svg)](https://travis-ci.org/rs-pro/mongoid-ip)
+
 Storing IP in MongoDB done right - as integers
 
 ## Installation

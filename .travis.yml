@@ -14,4 +14,3 @@ gemfile:
   - Gemfile
   - gemfiles/mongoid-3.1.gemfile
   - gemfiles/mongoid-4.0.gemfile
-
