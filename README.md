@@ -29,7 +29,7 @@ And than just use it as you would a regular text string (only change is sort ord
 
 ## Contributing
 
-1. Fork it ( http://github.com/<my-github-username>/mongoid-ip/fork )
+1. Fork it ( http://github.com/rs-pro/mongoid-ip/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
